@@ -65,4 +65,5 @@ int main(){
     root=buildTree(root);
     cout<<"Level Order Traversal: "<<endl;
     levelOrderTraversal(root);
+    return 0;
 }
